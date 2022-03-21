@@ -5,6 +5,8 @@
 Write a class Counter that represents a simple counter, defined in the following UML
 class diagram. Write a class CounterTest to test it. Follow the steps below may help
 you:
+![image](https://user-images.githubusercontent.com/47972946/159366676-626d017c-eab3-4c8c-b640-d3023aa00617.png)
+
 
 Counter
 int count;
