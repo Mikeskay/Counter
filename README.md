@@ -3,20 +3,10 @@
 # Task Description: 
 
 Write a class Counter that represents a simple counter, defined in the following UML
-class diagram. Write a class CounterTest to test it. Follow the steps below may help
-you:
+class diagram. 
+
 ![image](https://user-images.githubusercontent.com/47972946/159366676-626d017c-eab3-4c8c-b640-d3023aa00617.png)
 
-
-Counter
-int count;
-int max;
-increase();
-decrease();
-reset();
-increase(int n);
-decrease(int n);
-toString() : String;
 
 a) Write the Counter class. The Counter class should have two private variables:
 count and max. (count is the current count, max is the maximum count allowed).
